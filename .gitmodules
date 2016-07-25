@@ -1,0 +1,4 @@
+[submodule "make"]
+	path = make
+	url = ../make
+	branch = develop
