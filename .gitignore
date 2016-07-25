@@ -1,0 +1,10 @@
+# Modified config
+config.make
+
+# Directories
+bin/
+lib/
+obj/
+
+# Vim temps
+.vimjunk/
